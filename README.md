@@ -2,9 +2,12 @@
 
 ## 资料
 
-https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content/
-https://elasticsearch.cn/explore
+[Spring 文档](https://spring.io/guides)  
+[Spring web 文档](ttps://spring.io/guides/gs/serving-web-content/)  
+[es 社区](ttps://elasticsearch.cn/explore)  
+[Bootstrap 文档](https://v3.bootcss.com/getting-started/)  
+[Github OAuth Documents](https://developer.github.com/apps/building-oauth-apps/)
 
 ## 工具
-http://git-scm.com/download
+[Git](http://git-scm.com/)  
+[Visual Paradigm](https://www.visual-paradigm.com)  
