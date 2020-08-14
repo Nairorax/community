@@ -1,9 +1,14 @@
-package com.nair.community.model;
+package com.nair.community.dto;
 
+/*
+ * 基本属性与Question 一致
+ */
+
+import com.nair.community.model.User;
 import lombok.Data;
 
 @Data
-public class Question {
+public class QuestionDTO {
     private Integer id;
     private String title;
     private String description;
@@ -14,4 +19,5 @@ public class Question {
     private Integer viewCount;;
     private Integer commentCount;
     private Integer likeCount;
+    private User user;
 }
