@@ -19,8 +19,9 @@
 <div class="container-fluid main profile">
     <div class="row">
         <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-        <h2><span th:text="${sectionName}"></span></h2>
-        <hr>
+        <!-- h2、h3 为字体大小 -->
+            <h2><span th:text="${sectionName}"></span></h2>
+            <hr>
             <div class="media" th:each="question : ${pageInation.questions}">
                 <div class="media-left">
                     <a href="#">
